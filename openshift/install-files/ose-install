@@ -19,10 +19,10 @@ openshift_use_dnsmasq=False
 os_sdn_network_plugin_name='cni'
 
 [masters]
-10.87.64.149 openshift_hostname=5b4s40
+34.223.234.213 openshift_hostname=5b4s40
 
 [etcd]
-10.87.64.149 openshift_hostname=5b4s40
+34.223.234.213 openshift_hostname=5b4s40
 
 [nodes]
-10.87.64.150 openshift_hostname=5b4s41
+35.160.233.70 openshift_hostname=5b4s41
